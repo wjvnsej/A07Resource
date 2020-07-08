@@ -1,0 +1,2 @@
+rootProject.name='A07Resource'
+include ':app'
